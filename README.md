@@ -1,52 +1,41 @@
-# Website hosted on netlify
-# For local built
-# conda activate base-2
-# $ hugo server
+# Website Hosting and Local Development Guide
 
+This guide provides instructions for accessing the hosted versions of the website and setting up a local development environment.
 
-# [Hugo Academic CV Theme](https://github.com/HugoBlox/theme-academic-cv)
+## Hosted Versions
 
-[![Screenshot](./preview.png)](https://hugoblox.com/templates/)
+There are two hosted versions of the website available for viewing and use:
 
-The Hugo **Academic Resumé Template** empowers you to easily create your job-winning online resumé, showcase your academic publications, and create online courses or knowledge bases to grow your audience.
+1. **Netlify Hosting**
+   - Access the website hosted on Netlify at: [Netlify Hosting](https://gangli.netlify.app)
 
-[![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://hugoblox.com/templates/)
-[![Discord](https://img.shields.io/discord/722225264733716590?style=for-the-badge)](https://discord.com/channels/722225264733716590/742892432458252370/742895548159492138)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/GetResearchDev?label=Follow%20on%20Twitter)](https://twitter.com/GetResearchDev)
+2. **GitHub Pages Hosting**
+   - View the GitHub Pages hosted version at: [GitHub Hosting](https://ganglix.github.io/professional-academic-website/)
 
-️**Trusted by 250,000+ researchers, educators, and students.** Highly customizable via the integrated **no-code, Hugo Blox Builder**, making every site truly personalized ⭐⭐⭐⭐⭐
+## Local Development Setup
 
-Easily write technical content with plain text Markdown, LaTeX math, diagrams, RMarkdown, or Jupyter, and import publications from BibTeX.
+To set up and run the website locally on your machine, follow these steps:
 
-[Check out the latest demo](https://academic-demo.netlify.app/) of what you'll get in less than 10 minutes, or [get inspired by our academics and research groups](https://hugoblox.com/creators/).
+### Prerequisites
 
-The integrated [**Hugo Blox Builder**](https://hugoblox.com) and CMS makes it easy to create a beautiful website for free. Edit your site in the CMS (or your favorite editor), generate it with [Hugo](https://github.com/gohugoio/hugo), and deploy with GitHub or Netlify. Customize anything on your site with widgets, light/dark themes, and language packs.
+Ensure that you have [Conda](https://docs.conda.io/en/latest/) installed on your system for managing packages and environments.
 
-- 👉 [**Get Started**](https://hugoblox.com/templates/)
-- 📚 [View the **documentation**](https://docs.hugoblox.com/)
-- 💬 [Chat with the **Hugo Blox Builder community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@GetResearchDev](https://twitter.com/GetResearchDev) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithHugoBlox](https://twitter.com/search?q=%23MadeWithHugoBlox&src=typed_query)
-- ⬇️ **Automatically import your publications from BibTeX** with the [Hugo Academic CLI](https://github.com/GetRD/academic-file-converter)
-- 💡 [Suggest an improvement](https://github.com/HugoBlox/hugo-blox-builder/issues)
-- ⬆️ **Updating?** View the [Update Guide](https://docs.hugoblox.com/reference/update/) and [Release Notes](https://github.com/HugoBlox/hugo-blox-builder/releases)
+### Steps for Local Setup
 
-## We ask you, humbly, to support this open source movement
+1. **Activate Conda Environment**
+   - Open your terminal or command prompt.
+   - Activate the Conda environment by running:
+     ```
+     conda activate base-2
+     ```
 
-Today we ask you to defend the open source independence of the Hugo Blox Builder and themes 🐧
+2. **Run Hugo Server**
+   - Once the environment is activated, start the Hugo server with:
+     ```
+     hugo server
+     ```
+   - This will compile the website and host it on a local server. 
 
-We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way.
+### Accessing Locally Hosted Site
 
-### [❤️ Click here to become a GitHub Sponsor, unlocking awesome perks such as _exclusive academic templates and widgets_](https://github.com/sponsors/gcushen)
-
-<p align="center"><a href="https://hugoblox.com/templates/" target="_blank" rel="noopener"><img src="https://hugoblox.com/uploads/readmes/academic_logo_200px.png" alt="Hugo Academic Theme for Hugo Blox Builder"></a></p>
-
-## Demo image credits
-
-- [Unsplash](https://unsplash.com)
-
-## Latest news
-
-<!--START_SECTION:news-->
-* [Hugo vs Quarto: Which One is Better for 2024?](https:&#x2F;&#x2F;hugoblox.com&#x2F;blog&#x2F;hugo-vs-quarto&#x2F;)
-* [Easily make an academic CV website to get more cites and grow your audience 🚀](https:&#x2F;&#x2F;hugoblox.com&#x2F;blog&#x2F;easily-make-academic-website&#x2F;)
-<!--END_SECTION:news-->
+- After starting the Hugo server, the terminal will display a local URL (usually `http://localhost:1313/`). Open this URL in your web browser to view the website.
