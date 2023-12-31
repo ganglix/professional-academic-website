@@ -1,3 +1,9 @@
+# Website hosted on netlify
+# For local built
+# conda activate base-2
+# $ hugo server
+
+
 # [Hugo Academic CV Theme](https://github.com/HugoBlox/theme-academic-cv)
 
 [![Screenshot](./preview.png)](https://hugoblox.com/templates/)
