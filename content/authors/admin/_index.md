@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Sessional Lecturer, R&D engineer intern
+role: Sessional Lecturer, R&D
 
 # Organizations/Affiliations to show in About widget
 organizations:
