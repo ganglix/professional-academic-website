@@ -1,3 +1,12 @@
+# my notes: 
+#looks like this workflow only process the first publication of the same year
+# reason: The issue with the GitHub Action only processing the first publication of each 
+# year is likely due to these duplicate keys. In BibTeX, each entry must have a unique key 
+# so that it can be distinctly identified. When multiple entries share the same key, 
+# the system might only recognize the first one, ignoring the subsequent duplicates.
+# To resolve this, you should assign a unique key to each publication entry, 
+# especially those with the key Li2023. For example, you could use Li2023a, Li2023b, Li2023c, etc., 
+# to differentiate them. After making these changes, the GitHub Action should be able to process all publications correctly. 
 # Hugo Blox GitHub Action to convert Bibtex publications to Markdown-based webpages
 name: Import Publications From Bibtex
 
