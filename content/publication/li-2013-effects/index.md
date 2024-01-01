@@ -8,4 +8,13 @@ publishDate: '2024-01-01T20:46:05.062160Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the 24th Canadian Congress of Applied Mechanics*'
+
+tags:
+- Concrete
+- Crack
+- Numerical simulation
+- Moisture
+- Chloride
+- Concrete
+- Transport
 ---

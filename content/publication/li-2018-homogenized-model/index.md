@@ -22,4 +22,12 @@ abstract: The model is firstly solved at the “open circuit mode” to find the
 links:
 - name: URL
   url: https://doi.org/10.5281/zenodo.1406210
+
+tags:
+- Rebar
+- Corrosion
+- Numerical simulation
+- Potentiodynamic scan
+- Software
+
 ---

@@ -47,25 +47,15 @@ abstract: 'The University Bridge in Saskatoon is a multi-span concrete arch brid
   be easily capable of meeting the desired 50 year service life extension at a minimal
   cost impact to the overall project.'
 tags:
-- Arch bridge
-- Arch bridges
-- Bridge deck
-- Bridge decks
-- Bridge pier
-- Bridge piers
-- Canada
+- Corrosion
+- Bridge
+- Rebar
 - Case studies
 - Case study
-- Condition survey
-- Condition surveys
-- Conference
-- Conferences
 - Evaluation
 - Evaluation (assessment)
 - Life cycle
 - Life cycle analysis
-- Method
-- Methodology
 - Repair
 - Repairing
 links:

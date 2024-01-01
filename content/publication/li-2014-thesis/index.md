@@ -6,4 +6,14 @@ date: '2014-01-01'
 publishDate: '2024-01-01T20:46:05.070725Z'
 publication_types:
 - thesis
+
+tags:
+- Concrete
+- Crack
+- Numerical simulation
+- Moisture
+- Chloride
+- Concrete
+- Transport
+
 ---

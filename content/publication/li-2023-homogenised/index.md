@@ -29,7 +29,11 @@ tags:
 - corrosion rate
 - non-uniform corrosion
 - polarisation curve
-- reinforced concrete
+- concrete
+- Rebar
+- Corrosion
+- Potentiodynamic scan
+
 links:
 - name: URL
   url: https://www.tandfonline.com/doi/full/10.1080/1478422X.2023.2190442

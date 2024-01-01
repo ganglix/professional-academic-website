@@ -192,8 +192,28 @@ sections:
           tag: '*'
         - name: Corrosion
           tag: Corrosion
-        - name: Other
-          tag: Demo
+        - name: Concrete
+          tag: Concrete
+        - name: Rebar
+          tag: Rebar
+        - name: Crack
+          tag: Crack
+        - name: Numerical Simulation
+          tag: Numerical Simulation
+        - name: Potentiodynamic scan
+          tag: Potentiodynamic scan
+        - name: Transport
+          tag: Transport
+        - name: Moisture
+          tag: Moisture
+        - name: Chloride
+          tag: Chloride
+        - name: Carbonation
+          tag: Carbonation
+        - name: Life cycle
+          tag: Life cycle
+        - name: Case study
+          tag: Case study
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'

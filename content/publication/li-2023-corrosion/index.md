@@ -19,6 +19,16 @@ abstract: This study developed a methodology for quantifying the corrosion param
   mortar, it was observed that the critical chloride content lacked a distinct threshold.
   The degree of depassivation, as indicated by shifts in corrosion parameters due
   to chloride ions and carbonation, was influenced by humidity.
+
+tags:
+- Rebar
+- Concrete
+- Corrosion
+- Chloride
+- Carbonation
+- Moisture
+- Potentiodynamic Scan
+
 links:
 - name: URL
   url: https://linkinghub.elsevier.com/retrieve/pii/S0950061823038783

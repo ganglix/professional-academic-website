@@ -53,6 +53,7 @@ tags:
 - Synergistic effect
 - carbonation
 - chloride
+- Corrosion
 - rebar corrosion
 - water content
 ---
