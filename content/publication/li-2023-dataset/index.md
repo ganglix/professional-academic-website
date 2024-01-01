@@ -7,7 +7,7 @@ authors:
 date: '2023-11-01'
 publishDate: '2024-01-01T20:46:05.120641Z'
 publication_types:
-- manuscript
+- dataset
 publication: '*Zenodo*'
 doi: 10.5281/zenodo.10150202
 abstract: This dataset provides comprehensive corrosion parameter data for reinforcing

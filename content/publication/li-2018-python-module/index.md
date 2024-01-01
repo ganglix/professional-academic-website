@@ -9,7 +9,7 @@ authors:
 date: '2018-08-01'
 publishDate: '2024-01-01T20:46:05.099181Z'
 publication_types:
-- manuscript
+- software
 publication: '*Zenodo*'
 doi: 10.5281/ZENODO.1406195
 abstract: A customized Python module for interactive curving fitting in Jupyter Notebook

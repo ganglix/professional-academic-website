@@ -8,7 +8,7 @@ authors:
 date: '2023-01-01'
 publishDate: '2024-01-01T20:46:05.127271Z'
 publication_types:
-- article-journal
+- preprint
 publication: '*SSRN*'
 doi: 10.2139/ssrn.4543416
 abstract: 'This study deepens our understanding of rebar corrosion in cement-based

@@ -7,7 +7,7 @@ authors:
 date: '2018-08-01'
 publishDate: '2024-01-01T20:46:05.092317Z'
 publication_types:
-- manuscript
+- software
 publication: '*Zenodo*'
 doi: 10.5281/ZENODO.1406210
 abstract: The model is firstly solved at the “open circuit mode” to find the OCP.
