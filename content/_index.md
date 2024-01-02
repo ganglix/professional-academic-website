@@ -127,7 +127,7 @@ sections:
         - name: Bridge
           tag: Bridge
         - name: Other
-          tag: Demo
+          tag: Other
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
@@ -163,7 +163,7 @@ sections:
       filters:
         folders:
           - publication
-        exclude_featured: true
+        # exclude_featured: true  # not even applicable for portfolio.
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
       default_button_index: 0
       # Filter toolbar (optional).
