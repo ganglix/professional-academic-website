@@ -18,8 +18,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Hugo Blox Builder.'
-    twitter: 'GetResearchDev'
+    description: "Gang Li's professional and academic website."
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -44,6 +44,7 @@ header:
 # Site footer
 
 footer:
+  block: minimal
   copyright:
     notice: '© {year} Gang Li. This work is licensed under {license}'
     license:
@@ -70,7 +71,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/ganglix/professional-academic-website'
     content_dir: content
     branch: main
   avatar:
