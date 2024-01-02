@@ -12,6 +12,22 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
 
+  - block: markdown
+    content:
+      title: Teaching
+    #   subtitle: Course Overview
+      text: |
+        CHE 453 Corrosion Engineering
+        
+        CE 212 Civil Engineering Materials
+        
+        CMPT 141 Introduction to Computer Science
+        
+        CMPT 142 Introduction to Computer Science for Engineers
+    design:
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '2'
+
 
 #   - block: skills
 #     content:
@@ -185,7 +201,7 @@ sections:
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
-      view: card
+      view: citation
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
 #   - block: collection

@@ -29,6 +29,9 @@ tags:
 - Moisture
 - Potentiodynamic Scan
 
+# Display this page in the Featured widget?
+featured: true
+
 links:
 - name: URL
   url: https://linkinghub.elsevier.com/retrieve/pii/S0950061823038783

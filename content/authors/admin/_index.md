@@ -26,7 +26,7 @@ bio: My research focuses on durability of cement-based materials and concrete in
 
 # Interests to show in About widget
 interests:
-  - Durability of Cement-based Materials and Concrete Infrastructures
+  - Durability of Cement-based Materials and Concrete Structures
   - Numerical Simulation of Corrosion and Species Transport
   - Engineering Software Development
   - Non-destructive testing methods
@@ -81,7 +81,7 @@ email: ''
 highlight_name: true
 ---
 
-Welcome to my professional webpage. I am a researcher and educator at the University of Saskatchewan, specializing in the durability of cement-based materials and the deterioration mechanisms of reinforced concrete infrastructures. My work bridges the critical gap between theoretical research and practical application.  
+I am a researcher and educator at the University of Saskatchewan, specializing in the durability of cement-based materials and the deterioration mechanisms of reinforced concrete infrastructures. My work bridges the critical gap between theoretical research and practical application.  
 
 I develop software and hardware tools to present stakeholders with a clear perspective on the expected service life of structures. These applications also offer strategies for optimized maintenance schedules, prioritizing both cost-effectiveness and environmental sustainability.  
 {style="text-align: justify;"}
