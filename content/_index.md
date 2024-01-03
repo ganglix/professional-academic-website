@@ -6,24 +6,26 @@ type: landing
 
 sections:
   - block: about.biography
-    id: about
+    id: about # id is the address linking to menu
     content:
       title: 
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
 
   - block: markdown
+    id: teaching
     content:
       title: Teaching
     #   subtitle: Course Overview
       text: |
-        CHE 453 Corrosion Engineering
-        
-        CE 212 Civil Engineering Materials
-        
-        CMPT 141 Introduction to Computer Science
-        
-        CMPT 142 Introduction to Computer Science for Engineers
+            - CHE 453 Corrosion Engineering
+            - CE 212 Civil Engineering Materials
+            - CMPT 141 Introduction to Computer Science
+            - CMPT 142 Introduction to Computer Science for Engineers
+
+
+
+
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
