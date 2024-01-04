@@ -35,4 +35,11 @@ featured: true
 links:
 - name: URL
   url: https://linkinghub.elsevier.com/retrieve/pii/S0950061823038783
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
 ---
