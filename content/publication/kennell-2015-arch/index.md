@@ -61,5 +61,11 @@ tags:
 links:
 - name: URL
   url: 
-    http://conf.tac-atc.ca/english/annualconference/tac2015/s18/kennell.pdf%0Ahttps://trid.trb.org/view/1399685
+    http://conf.tac-atc.ca/english/annualconference/tac2015/s18/kennell.pdf
+
+image:
+  caption: 'Simulated oxygen concentration gradients for encapsulation rehabilitation option'
+  focal_point: ''
+  preview_only: false
+
 ---
