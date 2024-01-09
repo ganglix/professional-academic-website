@@ -2,7 +2,7 @@
 title: The impact of non-uniformity and resistivity on the homogenised corrosion parameters
   of rebars in concrete – a circuit model analysis
 authors:
-- Gang Li
+- Admin
 - Richard Evitts
 - Moh Boulfiza
 date: '2023-05-01'

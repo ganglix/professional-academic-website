@@ -2,7 +2,7 @@
 title: On the interactive effects of moisture, chloride, and carbonation on rebar
   corrosion in mortar
 authors:
-- Gang Li
+- Admin
 - Richard Evitts
 - Moh Boulfiza
 date: '2023-01-01'

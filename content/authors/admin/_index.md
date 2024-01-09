@@ -22,7 +22,7 @@ organizations:
     url: https://www.usask.ca
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on durability of cement-based materials and concrete infrastructures
+bio: My research focuses on durability of cement-based materials and concrete infrastructures.
 
 # Interests to show in About widget
 interests:

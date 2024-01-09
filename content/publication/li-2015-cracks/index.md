@@ -1,7 +1,7 @@
 ---
 title: Effect of artificial and natural cracks on water flow in concrete
 authors:
-- Gang Li
+- Admin
 - Moh Boulfiza
 - Bing Si
 date: '2015-01-01'

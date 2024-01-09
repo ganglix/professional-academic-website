@@ -3,7 +3,7 @@ title: The University Bridge Arch Assessment - A New Approach
 authors:
 - Glyn Kennell
 - Jim Zacaruk
-- Gang Li
+- Admin
 - Mohamed Boulfiza
 date: '2015-01-01'
 publishDate: '2024-01-01T20:46:05.083025Z'

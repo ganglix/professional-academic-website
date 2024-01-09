@@ -8,7 +8,7 @@ sections:
   - block: about.biography
     id: about # id is the address linking to menu
     content:
-      title: 
+      title: ''
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
 

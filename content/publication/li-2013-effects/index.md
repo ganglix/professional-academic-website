@@ -1,7 +1,7 @@
 ---
 title: Effects of cracking on the transport characteristics of reinforced concrete
 authors:
-- Gang Li
+- Admin
 - Moh Boulfiza
 date: '2013-01-01'
 publishDate: '2024-01-01T20:46:05.062160Z'

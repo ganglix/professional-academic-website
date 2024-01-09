@@ -2,7 +2,7 @@
 title: A customized Python module for interactive curve fitting on potentiodynamic
   scan data
 authors:
-- Gang Li
+- Admin
 - Richard Evitts
 - Moh Boulfiza
 - Alice D. S. Li

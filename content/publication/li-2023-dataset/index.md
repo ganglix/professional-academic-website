@@ -1,7 +1,7 @@
 ---
 title: Dataset of corrosion parameters for rebar in simulated pore solution and mortar
 authors:
-- Gang Li
+- Admin
 - Richard Evitts
 - Moh Boulfiza
 date: '2023-11-01'

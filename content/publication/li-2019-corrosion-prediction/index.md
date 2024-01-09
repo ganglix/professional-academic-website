@@ -1,7 +1,7 @@
 ---
 title: Corrosion Prediction with 3D Model Utilizing Meteorological Data and Properties of Site-extracted Rebar and Concrete
 authors:
-- Gang Li
+- Admin
 - Moh Boulfiza
 - Richard Evitts
 date: '2019-01-01'

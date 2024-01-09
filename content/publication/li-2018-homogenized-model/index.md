@@ -1,7 +1,7 @@
 ---
 title: 'Homogenized-model-simplified-circuit: code for the simplified circuit model'
 authors:
-- Gang Li
+- Admin
 - Richard Evitts
 - Moh Boulfiza
 date: '2018-08-01'

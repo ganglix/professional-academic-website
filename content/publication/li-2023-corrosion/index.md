@@ -2,7 +2,7 @@
 title: On the corrosion parameters acquired through potentiodynamic scans of carbon
   steel rebar in simulated pore solution and mortar
 authors:
-- Gang Li
+- Admin
 - Richard Evitts
 - Moh Boulfiza
 date: '2023-12-01'
