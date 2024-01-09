@@ -51,9 +51,13 @@ abstract: 'This study deepens our understanding of rebar corrosion in cement-bas
   measurements within concrete or mortar samples.'
 tags:
 - Synergistic effect
-- carbonation
-- chloride
+- Carbonation
+- Chloride
 - Corrosion
-- rebar corrosion
-- water content
+- Rebar corrosion
+- Water content
+
+# profile: true
+show_related: true
+
 ---

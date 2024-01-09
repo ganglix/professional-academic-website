@@ -14,6 +14,4 @@ banner:
   caption: ''
   image: ''
 
-profile: true
-show_related: true
 ---
