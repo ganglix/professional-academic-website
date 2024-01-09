@@ -17,6 +17,7 @@ date: "2016-04-27T00:00:00Z"
 # image:
 #   caption: Photo by Toa Heftiba on Unsplash
 #   focal_point: Smart
+show_related: true
 ---
 Built in 1910, the Moose Jaw Inland Grain Terminal stands as a multi-cellular, concrete-constructed grain facility. Recent evaluations hinted at potential corrosion from concrete carbonation, prompting a proposal for extensive rehabilitation.
 

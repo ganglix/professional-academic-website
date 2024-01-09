@@ -31,6 +31,8 @@ external_link: ''
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 # slides: example
+show_related: true
+
 ---
 The Petrofka Bridge, a significant steel and concrete structure over the North Saskatchewan River, showed signs of wear, prompting an in-depth examination beyond regular evaluations to inform its upcoming major rehabilitation.
 

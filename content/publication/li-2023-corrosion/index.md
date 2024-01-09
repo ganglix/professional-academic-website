@@ -42,4 +42,7 @@ image:
   caption: ''
   focal_point: ''
   preview_only: false
+
+show_related: true
+
 ---

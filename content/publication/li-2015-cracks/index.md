@@ -16,4 +16,7 @@ tags:
 - moisture
 - tdr
 - water content
+
+show_related: true
+
 ---

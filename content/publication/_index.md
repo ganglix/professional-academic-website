@@ -13,4 +13,7 @@ view: 4  # this seems not affect anything; settings were done in home _index
 banner:
   caption: ''
   image: ''
+
+profile: true
+show_related: true
 ---

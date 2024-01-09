@@ -30,6 +30,8 @@ external_link: ''
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 # slides: example
+show_related: true
+
 ---
 The historic University Bridge in Saskatoon, established in 1916, was slated for an extensive rehabilitation in 2015 to renew its deck, arches, and piers. This initiative is backed by an in-depth assessment, focusing on prospective strategies for enhancing the bridge's arches.
 

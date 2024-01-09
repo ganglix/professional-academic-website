@@ -30,4 +30,6 @@ tags:
 - Potentiodynamic scan
 - Software
 
+show_related: true
+
 ---

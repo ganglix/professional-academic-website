@@ -26,4 +26,7 @@ tags:
 - TDR
 - Permeability
 - Hydraulic conductivity
+
+show_related: true
+
 ---

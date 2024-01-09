@@ -21,4 +21,6 @@ tags:
 
 url_pdf: ''
 
+show_related: true
+
 ---
