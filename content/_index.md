@@ -160,7 +160,7 @@ sections:
       title: Publications
       text: |-
         {{% callout note %}}
-        Quickly discover relevant content by [searching publications](./publication/), filtering using the buttons below, or exploring [popular topics](#tags).
+        Quickly discover relevant content by [searching publications](./publication/), filtering using the tabs below, or exploring [popular topics](#tags).
         {{% /callout %}}
       filters:
         folders:
