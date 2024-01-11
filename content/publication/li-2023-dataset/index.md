@@ -10,11 +10,7 @@ publication_types:
 - dataset
 publication: '*Zenodo*'
 doi: 10.5281/zenodo.10150202
-abstract: This dataset provides comprehensive corrosion parameter data for reinforcing
-  steel (rebar) in simulated pore solutions and mortar. It includes detailed measurements
-  of corrosion potential, corrosion current density, and Tafel slopes under various
-  chloride levels and carbonation treatments. The data aims to shed light on the corrosion
-  behaviour of rebar in environments that closely mimic real-world conditions.
+abstract: This dataset provides comprehensive corrosion parameter data for reinforcing steel (rebar) in simulated pore solutions and mortar. It includes detailed measurements of corrosion potential, corrosion current density, and Tafel slopes under various chloride levels and carbonation treatments. The data aims to shed light on the corrosion behaviour of rebar in environments that closely mimic real-world conditions.
 
 tags:
 - Rebar
@@ -25,6 +21,9 @@ tags:
 links:
 - name: URL
   url: https://doi.org/10.5281/zenodo.10150202
+
+# Display this page in the Featured widget?
+featured: true
 
 show_related: true
 
