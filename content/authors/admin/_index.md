@@ -84,4 +84,7 @@ highlight_name: true
 I am a researcher and educator at the University of Saskatchewan, specializing in the durability of cement-based materials and the deterioration mechanisms of reinforced concrete infrastructures. My work bridges the critical gap between theoretical research and practical application.  
 
 I develop software and hardware tools to present stakeholders with a clear perspective on the expected service life of structures. These applications also offer strategies for optimized maintenance schedules, prioritizing both cost-effectiveness and environmental sustainability.  
+
+I am working towards my vision to develop generalized comprehensive mechanistic numerical models that quantify the major mechanisms governing the degradation of concrete structures operating in harsh environments. With the aid of field-sensing technology, they can be customized to provide tailored assessments of a given structure. Because this assessment would reveal the mechanisms connecting to the service life prediction, we can select the optimized proactive maintenance schedule and methods to improve the resilience of the structure.
+
 {style="text-align: justify;"}
