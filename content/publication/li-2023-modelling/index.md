@@ -76,14 +76,16 @@ image:
   preview_only: false
 
 tags:
-- rebar
-- concrete
-- cracking
-- corrosion kinetics
-- corrosion modelling
-- reactive transport modelling
-- homogenization
+- Rebar
+- Concrete
+- Cracking
+- Corrosion kinetics
+- Corrosion modelling
+- Reactive transport modelling
+- Transport
+- Homogenization
 - microenvironment
+- Numerical simulation
 
 show_related: true
 
