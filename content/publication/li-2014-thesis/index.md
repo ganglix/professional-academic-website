@@ -31,3 +31,4 @@ tags:
 show_related: true
 
 ---
+Gallery ![natural](crackline.png "Digitalization of a natural crack line")
