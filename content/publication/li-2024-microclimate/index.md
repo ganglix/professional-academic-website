@@ -2,7 +2,7 @@
 title: A 3-D transport model for assessing the impact of microclimate change on the
   corrosion performance of a bridge subjected to carbonation and chloride attack
 authors:
-- Gang Li
+- Admin
 - Moh Boulfiza
 - Richard Evitts
 date: '2024-01-01'
@@ -42,4 +42,10 @@ tags:
 links:
 - name: URL
   url: https://www.sciencedirect.com/science/article/pii/S2214509524000317
+
+summary: This study used a 3-D transport model to analyze corrosion in an old arch bridge's reinforcement under carbonation and chloride attack, factoring in realistic microclimates. Field data on oxygen, moisture, chloride, and carbonation levels informed the analysis. Findings show varying corrosion rates due to environmental factors, highlighting the need for diverse maintenance strategies according to climate scenarios.
+
+featured: true
+show_related: true
+
 ---
