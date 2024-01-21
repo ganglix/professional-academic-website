@@ -35,10 +35,13 @@ tags:
 - Numerical simulation
 - Concrete infrastructure
 - Corrosion kinetics
+- Corrosion
 - Carbonation
 - Chloride
 - Microclimate
 - Climate change
+- Bridge
+
 links:
 - name: URL
   url: https://www.sciencedirect.com/science/article/pii/S2214509524000317
