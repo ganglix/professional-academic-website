@@ -26,18 +26,18 @@ bio: My research focuses on durability of cement-based materials and concrete in
 
 # Interests to show in About widget
 interests:
-  - Durability of Cement-based Materials and Concrete Structures
-  - Numerical Simulation of Corrosion and Species Transport
-  - Engineering Software Development
-  - Non-destructive testing methods
+  - Durability of Concrete Structures
+  - Corrosion and Species Transport in Porous Medium
+  - Engineering Software
+  - Non-destructive Testing
 
 # Education to show in About widget
 education:
   courses:
-    - course: Ph.D. in Civil Engineering
+    - course: Ph.D. Civil Engineering
       institution: University of Saskatchewan
       year: 2023
-    - course: M.Sc. in Civil Engineering
+    - course: M.Sc. Civil Engineering
       institution: University of Saskatchewan
       year: 2014
     - course: B.Eng. Material Science and Engineering

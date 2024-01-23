@@ -24,7 +24,7 @@ Ensure that you have [Conda](https://docs.conda.io/en/latest/) installed on your
 
 1. **Activate Conda Environment**
    - Open your terminal or command prompt.
-   - Activate the Conda environment by running:
+   - Activate the Conda environment by running (base-2 is an environment name where hugo is installed):
      ```
      conda activate base-2
      ```
