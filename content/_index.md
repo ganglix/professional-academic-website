@@ -12,23 +12,28 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
 
-  - block: markdown
+
+  - block: collection
     id: teaching
     content:
       title: Teaching
-    #   subtitle: Course Overview
-      text: |
-            - CHE 453 Corrosion Engineering
-            - CE 212 Civil Engineering Materials
-            - CMPT 141 Introduction to Computer Science
-            - CMPT 142 Introduction to Computer Science for Engineers
-
-
-
-
+      filters:
+        folders:
+          - course
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
+      view: list
+
+
+#   - block: portfolio
+#     content:
+#       title: Teaching courses
+#         folders: 
+#           - course
+#     design:
+#       # Choose how many columns the section has. Valid values: '1' or '2'.
+#       columns: '2'
 
 
 #   - block: skills
