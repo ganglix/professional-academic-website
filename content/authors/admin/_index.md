@@ -29,8 +29,8 @@ interests:
   - Durability of Concrete Structures
   - Sustainable Cement-Based Materials
   - Corrosion and Species Transport in Porous Medium
-  - Engineering Software
   - Non-destructive Testing
+  - Engineering Software
 
 # Education to show in About widget
 education:

@@ -1,9 +1,9 @@
 ---
 title: CMPT 142 Introduction to Computer Science for Engineers
-summary: ''
+summary: 'Introduces essential computer science and computer programming concepts and principles, with application to problems relevant to all Engineering disciplines. Presents the context in which computational problem solving is done, including historical and elementary technical aspects. Emphasizes fundamental programming constructs, including data and data types, variables and expressions, conditional branching, repetition, functions, recursion, as well as data structures such as strings, lists, and dictionaries. Presents searching and sorting algorithms as an introduction to concepts in computer science. Emphasis throughout on the practice of basic skills needed for writing robust software, including formal design processes and documentation, internal code documentation, testing, and debugging.'
 show_date: false
 image:
   caption: ''
   focal_point: Smart
 ---
-This is a computer science course tailored for engineering students. It was the first course that I taught using a competence-based evaluation method. Students must complete basic tasks with >95% mark and are allowed to refresh their grades when they achieve higher marks in more advanced tasks. This allows them to focus on gaining skills without the uncertainty of risking losing marks due to other causes. 
+Introduces essential computer science and computer programming concepts and principles, with application to problems relevant to all Engineering disciplines. Presents the context in which computational problem solving is done, including historical and elementary technical aspects. Emphasizes fundamental programming constructs, including data and data types, variables and expressions, conditional branching, repetition, functions, recursion, as well as data structures such as strings, lists, and dictionaries. Presents searching and sorting algorithms as an introduction to concepts in computer science. Emphasis throughout on the practice of basic skills needed for writing robust software, including formal design processes and documentation, internal code documentation, testing, and debugging.
