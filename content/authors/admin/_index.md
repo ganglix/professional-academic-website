@@ -73,7 +73,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/Gang_Li_web_CV.pdf
+    link: uploads/Gang_Li_CV_web.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -89,4 +89,4 @@ I develop software and hardware tools to present stakeholders with a clear persp
 I am working towards my vision to develop generalized comprehensive [mechanistic numerical models](./tag/numerical-simulation) that quantify the major mechanisms governing the degradation of concrete structures operating in harsh environments. With the aid of [field-sensing technology](./tag/sensor), they can be customized to provide tailored assessments of a given structure. Because this assessment would reveal the mechanisms connecting to the service life prediction, we can select the optimized proactive maintenance schedule and methods to improve the resilience of the structure.
 
 {style="text-align: justify;"}
-{{< icon name="download" pack="fas" >}}{{< staticref "uploads/Gang_Li_web_CV.pdf" "newtab" >}}Download my CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}}{{< staticref "uploads/Gang_Li_CV_web.pdf" "newtab" >}}Download my CV{{< /staticref >}}.
