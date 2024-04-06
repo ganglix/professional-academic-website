@@ -211,22 +211,31 @@ sections:
       view: compact
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-#   - block: collection
-#     id: talks
-#     content:
-#       title: Recent & Upcoming Talks
-#       filters:
-#         folders:
-#           - event
-#     design:
-#       columns: '2'
-#       view: compact
+      
+
+  - block: portfolio
+    id: tools
+    content:
+      title: Tools
+      filters:
+        folders:
+          - tools
+      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
+      default_button_index: 0
+    design:
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '2'
+      view: card
+      # For Showcase view, flip alternate rows?
+      flip_alt_rows: false
+
   - block: tag_cloud
     content:
       title: Popular Topics
     design:
       columns: '2'
-      
+
+
   - block: contact
     id: contact
     content:

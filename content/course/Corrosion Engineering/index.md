@@ -12,4 +12,7 @@ This is a fourth-year undergrad course that covers the principles of corrosion, 
 
 ## **Resource**
 
-Webapp: [Butler-Volmer Equation Demonstration](https://butler-volmer-equation-hk6bawz3tftkmzwgvgyym9.streamlit.app)
+Webapp: [Butler-Volmer Equation Demonstration](https://butler-volmer-equation-demo.streamlit.app)
+
+
+Webapp: [Electrode Potential Converter](https://reference-electrode-converter.streamlit.app)
