@@ -40,8 +40,8 @@ This webapp converts potential readings across different references and temperat
 
 <iframe
   src="https://reference-electrode-converter.streamlit.app/?embed=true"
-  height="900"
+  height="1000"
   width="700"
-  style={{ width: "100%", border: "none" }}
+  style={{ width: "100%", border: "none", scrolling: "auto"}}
 ></iframe>
 
