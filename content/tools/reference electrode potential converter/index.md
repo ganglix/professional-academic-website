@@ -34,7 +34,10 @@ tags:
 - Thermal coefficient
 
 ---
-If the webapp isn't displaying correctly in your browser, use the **external link** or **full screen** mode
+If the webapp isn't displaying correctly in your browser, use the **external link** or **full screen** mode.
+
+This webapp converts potential readings across different references and temperatures. It supports SHE, SCE, CSE, and Ag/AgCl electrodes.
+
 <iframe
   src="https://reference-electrode-converter.streamlit.app/?embed=true"
   height="900"
