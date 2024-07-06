@@ -15,9 +15,9 @@ summary: Rational-RC is a practical life cycle deterioration modelling framework
 
 links:
 - name: Documentation URL
-  url: https://magical-sherbet-9ac2a8.netlify.app/
+  url: https://rational-rc.readthedocs.io/
 - name: Tutorial
-  url: https://magical-sherbet-9ac2a8.netlify.app/tutorials/tutorial_index
+  url: https://rational-rc.readthedocs.io/en/latest/tutorials/tutorial_index.html
 tags:
 - Reinforced Concrete
 - Deterioration Modelling
