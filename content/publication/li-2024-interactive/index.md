@@ -4,8 +4,8 @@ authors:
 - Admin
 - Richard Evitts
 - Moh Boulfiza
-date: '2024-07-01'
-publishDate: '2024-07-01T00:00:00Z'
+date: '2024-07-18'
+publishDate: '2024-08-23T00:00:00Z'
 publication_types:
 - article-journal
 publication: '*Construction and Building Materials*'
