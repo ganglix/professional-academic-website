@@ -22,15 +22,15 @@ organizations:
     url: https://www.usask.ca
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on durability of cement-based materials and concrete infrastructures.
+bio: My research focuses on corrosion and durability of concrete structures.
 
 # Interests to show in About widget
 interests:
   - Corrosion and Species Transport in Porous Medium
+  - Numerical Simulation and Software
   - Durability of Concrete Structures
-  - Sustainable Cement-Based Materials
-  - Non-destructive Testing
-  - Engineering Software
+  - Non-destructive Testing and Sensing
+  - Sustainable Materials
 
 # Education to show in About widget
 education:
@@ -81,12 +81,12 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+## Research Focus
+The deterioration of concrete structures presents a significant challenge for global infrastructure. Climate change is expected to cause more extreme events, and the increasing use of low-carbon sustainable materials also introduces difficulties in applying existing standards. My research addresses these issues by developing advanced [numerical models](./tag/numerical-simulation) and [sensor technologies](./tag/sensor) that accurately predict deterioration processes and optimize maintenance strategies, thereby extending the [service life](./tag/service-life) of critical structures.
 
-I am a researcher and educator at the University of Saskatchewan, specialized in the durability of cement-based materials and the deterioration mechanisms of reinforced concrete infrastructures. My work bridges the critical gap between theoretical research and practical application.
+## My Perspective
+The recent demand for life cycle decarbonization of structures highlights the need for a mechanistic understanding of their deterioration. From my perspective, existing concrete structures, serving as a significant carbon sink, now outweigh the CO<sub>2</sub> emissions from new construction. The key opportunity for industry-wide decarbonization lies in understanding structural deterioration and developing new standards that ensure timely, effective rehabilitation, avoiding unnecessary repairs based on outdated practices.
 
-I develop software and hardware tools to present stakeholders with a clear perspective on the expected [service life](./tag/service-life) of structures. These applications also offer strategies for optimized maintenance schedules, prioritizing both cost-effectiveness and environmental sustainability.  
-
-I am working towards my vision to develop generalized comprehensive [mechanistic numerical models](./tag/numerical-simulation) that quantify the major mechanisms governing the degradation of concrete structures operating in harsh environments. With the aid of [field-sensing technology](./tag/sensor), they can be customized to provide tailored assessments of a given structure. Because this assessment would reveal the mechanisms connecting to the service life prediction, we can select the optimized proactive maintenance schedule and methods to improve the resilience of the structure.
 
 {style="text-align: justify;"}
 {{< icon name="download" pack="fas" >}}{{< staticref "uploads/Gang_Li_CV_web.pdf" "newtab" >}}Download my CV{{< /staticref >}}.
