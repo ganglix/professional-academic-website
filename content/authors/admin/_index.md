@@ -73,7 +73,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/Gang_Li_CV_web.pdf
+    link: uploads/CV_Gang_Li_web.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -89,4 +89,4 @@ The recent demand for life cycle decarbonization of structures highlights the ne
 
 
 {style="text-align: justify;"}
-{{< icon name="download" pack="fas" >}}{{< staticref "uploads/Gang_Li_CV_web.pdf" "newtab" >}}Download my CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}}{{< staticref "uploads/CV_Gang_Li_web.pdf" "newtab" >}}Download my CV{{< /staticref >}}.
