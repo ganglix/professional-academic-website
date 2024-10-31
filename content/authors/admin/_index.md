@@ -82,7 +82,8 @@ email: ''
 highlight_name: true
 ---
 ## Research Focus
-The deterioration of concrete structures presents a significant challenge for global infrastructure. Climate change is expected to cause more extreme events, and the increasing use of low-carbon sustainable materials also introduces difficulties in applying existing standards. My research addresses these issues by developing advanced [numerical models](./tag/numerical-simulation) and [sensor technologies](./tag/sensor) that accurately predict deterioration processes and optimize maintenance strategies, thereby extending the [service life](./tag/service-life) of critical structures.
+The deterioration of concrete structures presents a significant challenge for global infrastructure. Climate change is expected to cause more extreme events, and the increasing use of low-carbon sustainable materials also introduces difficulties in applying existing standards. My research addresses these issues by developing integrated [computational modelling](./tag/numerical-simulation) and innovative [field-sensing technologies](./tag/sensor) to accurately predict deterioration processes. My work aims to extend the [service life](./tag/service-life) of critical infrastructures and guide the implementation of adaptive, proactive maintenance strategies that align with evolving sustainability standards.
+
 
 ## My Perspective
 The recent demand for life cycle decarbonization of structures highlights the need for a mechanistic understanding of their deterioration. From my perspective, existing concrete structures, serving as a significant carbon sink, now outweigh the CO<sub>2</sub> emissions from new construction. The key opportunity for industry-wide decarbonization lies in understanding structural deterioration and developing new standards that ensure timely, effective rehabilitation, avoiding unnecessary repairs based on outdated practices.
