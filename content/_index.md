@@ -13,18 +13,6 @@ sections:
       username: admin
 
 
-  - block: collection
-    id: teaching
-    content:
-      title: Teaching
-      filters:
-        folders:
-          - course
-    design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '2'
-      view: list
-
 
 #   - block: portfolio
 #     content:
@@ -212,6 +200,17 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
       
+  - block: collection
+    id: teaching
+    content:
+      title: Teaching
+      filters:
+        folders:
+          - course
+    design:
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '2'
+      view: list
 
   - block: portfolio
     id: tools
