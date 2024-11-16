@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Sessional Lecturer, R&D
+role: Research Associate
 
 # Organizations/Affiliations to show in About widget
 organizations:
