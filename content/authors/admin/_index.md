@@ -79,14 +79,17 @@ social:
 email: ''
 
 # Highlight the author in author lists? (true/false)
+## My Perspective
+# The recent demand for life cycle decarbonization of structures highlights the need for a mechanistic understanding of their deterioration. From my perspective, existing concrete structures, serving as a significant carbon sink, now outweigh the CO<sub>2</sub> emissions from new construction. The key opportunity for industry-wide decarbonization lies in understanding structural deterioration and developing new standards that ensure timely, effective rehabilitation, avoiding unnecessary repairs based on outdated practices.
+
 highlight_name: true
 ---
 ## Research Focus
-The deterioration of concrete structures presents a significant challenge for global infrastructure. Climate change is expected to cause more extreme events, and the increasing use of low-carbon sustainable materials also introduces difficulties in applying existing standards. My research addresses these issues by developing integrated [computational modelling](./tag/numerical-simulation) and innovative [field-sensing technologies](./tag/sensor) to accurately predict deterioration processes. My work aims to extend the [service life](./tag/service-life) of critical infrastructures and guide the implementation of adaptive, proactive maintenance strategies that align with evolving sustainability standards.
+The deterioration of concrete and metallic structures presents a significant challenge for global infrastructure. Climate change is expected to cause more extreme events, and the increasing use of low-carbon sustainable materials also introduces difficulties in applying existing standards. My research addresses these issues by developing integrated [computational modelling](./tag/numerical-simulation) and innovative [field-sensing technologies](./tag/sensor) to accurately predict deterioration processes. 
 
+Beyond concrete degradation, I study metal corrosion in aggressive environments, focusing on electrochemical processes in solutions and porous media relevant to mining. My work includes corrosion mitigation, material selection, and numerical modeling to enhance durability and optimize maintenance, particularly for metals exposed to harsh chemical and thermal conditions in potash and underground mining.
 
-## My Perspective
-The recent demand for life cycle decarbonization of structures highlights the need for a mechanistic understanding of their deterioration. From my perspective, existing concrete structures, serving as a significant carbon sink, now outweigh the CO<sub>2</sub> emissions from new construction. The key opportunity for industry-wide decarbonization lies in understanding structural deterioration and developing new standards that ensure timely, effective rehabilitation, avoiding unnecessary repairs based on outdated practices.
+Ultimately, my work aims to extend the [service life](./tag/service-life) of critical infrastructures and guide the implementation of adaptive, proactive maintenance strategies that align with evolving sustainability standards.
 
 
 {style="text-align: justify;"}
