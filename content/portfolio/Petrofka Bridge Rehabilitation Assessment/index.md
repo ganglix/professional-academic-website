@@ -3,6 +3,7 @@ title: Petrofka Bridge Rehabilitation Assessment
 summary: The Petrofka Bridge, a significant steel and concrete structure over the North Saskatchewan River, showed signs of wear, prompting an in-depth examination beyond regular evaluations to inform its upcoming major rehabilitation.
 tags:
   - Bridge
+  - Concrete
   - Life cycle
   - Service life
   - Chloride

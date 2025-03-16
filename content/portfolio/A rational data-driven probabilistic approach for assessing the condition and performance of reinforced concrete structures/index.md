@@ -3,6 +3,7 @@ title: A rational data-driven probabilistic approach for assessing the condition
 summary: "This research project developed software using probabilistic life-cycle deterioration models for RC structures. It assesses current conditions and predicts future performance using field data, enabling effective scheduling of maintenance or repairs to extend the asset's life. The software evaluates various deterioration stages, enhancing asset management."
 tags:
   - Bridge
+  - Concrete
   - Chloride
   - Carbonation
   - Corrosion

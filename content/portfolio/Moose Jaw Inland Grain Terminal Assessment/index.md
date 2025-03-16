@@ -8,7 +8,6 @@ tags:
   - Corrosion
   - Service life
   - Life cycle
-  - Other
   - Sensor
 date: "2016-04-27T00:00:00Z"
 

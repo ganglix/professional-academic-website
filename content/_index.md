@@ -121,8 +121,10 @@ sections:
           tag: '*'
         - name: Bridge
           tag: Bridge
-        - name: Other
-          tag: Other
+        - name: Concrete
+          tag: Concrete
+        - name: Corrosion
+          tag: Corrosion
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'

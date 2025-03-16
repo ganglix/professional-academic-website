@@ -3,6 +3,8 @@ title: University Bridge Rehabilitation Assessment
 summary: The historic University Bridge in Saskatoon, established in 1916, was slated for an extensive rehabilitation in 2015 to renew its deck, arches, and piers. This initiative is backed by an in-depth assessment, focusing on prospective strategies for enhancing the bridge's arches.
 tags:
   - Bridge
+  - Concrete
+  - Corrosion
   - Life cycle
   - Service life
   - Sensor

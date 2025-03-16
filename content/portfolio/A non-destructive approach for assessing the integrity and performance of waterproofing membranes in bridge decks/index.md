@@ -2,6 +2,7 @@
 title: A non-destructive approach for assessing the integrity and performance of waterproofing membranes in bridge decks
 summary: "The non-destructive test method developed in this study can be used to assess the quality of a newly installed membrane system or to determine the membrane condition at various points during its service life with the intent of optimizing maintenance interventions."
 tags:
+  - Concrete
   - Bridge
   - Deck
   - Membrane
