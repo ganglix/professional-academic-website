@@ -35,4 +35,10 @@ tags:
 links:
 - name: URL
   url: https://linkinghub.elsevier.com/retrieve/pii/S0958946525001209
+
+summary: This paper introduces a mechanistic corrosion model that simulates rebar corrosion in cracked concrete under complex, non-uniform environmental conditions. Leveraging advanced numerical modeling and experimental validation, the study analyzes the corrosion mechanisms, which reveals that self-healing is the key differentiator between the behavior of thin versus wide cracks. By isolating individual mechanisms, this work not only resolves a longstanding experimental debate but also establishes a method to determine the "critical crack width" threshold, beyond which reinforcement corrosion becomes a significant concern.
+
+featured: true
+show_related: true
+
 ---
