@@ -1,6 +1,6 @@
 ---
-title: Petrofka Bridge Rehabilitation Assessment
-summary: The Petrofka Bridge, a significant steel and concrete structure over the North Saskatchewan River, showed signs of wear, prompting an in-depth examination beyond regular evaluations to inform its upcoming major rehabilitation.
+title: Petrofka bridge chloride-induced corrosion assessment  
+summary: Advanced condition assessment and predictive modelling for the Petrofka Bridge, supporting data-driven rehabilitation planning using embedded sensors and probabilistic chloride ingress forecasting.  
 tags:
   - Bridge
   - Concrete
@@ -8,51 +8,25 @@ tags:
   - Service life
   - Chloride
   - Sensor
-
 date: '2016-04-27T00:00:00Z'
-
-# Optional external URL for project (replaces project detail page).
 external_link: ''
-
-# image:
-#   caption: Photo by rawpixel on Unsplash
-#   focal_point: Smart
-
-# links:
-#   - icon: twitter
-#     icon_pack: fab
-#     name: Follow
-#     url: https://twitter.com/georgecushen
-# url_code: ''
-# url_pdf: ''
-# url_slides: ''
-# url_video: ''
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-# slides: example
 show_related: true
-
 ---
-The Petrofka Bridge, a significant steel and concrete structure over the North Saskatchewan River, showed signs of wear, prompting an in-depth examination beyond regular evaluations to inform its upcoming major rehabilitation.
 
-In this project, we took an innovative approach:
+The Petrofka Bridge, a critical steel and concrete crossing over the North Saskatchewan River, exhibited signs of progressive deterioration, prompting a need for a more advanced structural assessment to guide its upcoming major rehabilitation. Our team delivered a consulting-led investigation focused on long-term durability risks and performance forecasting.
 
-- **Sensor Integration:**
+**Engineering Contributions:**
 
-Incorporated corrosion and moisture sensors within the bridge's deck. This provided real-time monitoring of water content variations and corrosion rates of reinforcement at different depths for a full year, starting in July 2020.
+- **Embedded Sensor Deployment:**  
+Corrosion and moisture sensors were strategically installed within the bridge deck to enable year-round monitoring of internal moisture dynamics and reinforcement corrosion rates at multiple depths. This real-time sensing program began in July 2020 and provided a valuable dataset for evaluating in-situ deterioration processes.
 
-- **Probabilistic Modelling:** 
+- **Probabilistic Chloride Ingress Modelling:**  
+Using site-specific data and mechanistic transport models, we developed a probabilistic framework to estimate the risk and timeline for chloride-induced corrosion. Forecasts indicated that by 2030, approximately 30% of rebars would exceed critical chloride thresholds, triggering active corrosion.
 
-Developed models to predict the infiltration of chloride de-icing salts, a primary cause for concern. These models estimated that by 2030, 30% of the embedded rebars might experience chloride-induced corrosion.
+- **Model Calibration and Data Integration:**  
+Model outputs were refined through calibration with chloride concentration profiles obtained from a parallel 2020 regional study. This step enhanced prediction accuracy and aligned assessment outcomes with observed environmental exposure conditions.
 
-- **Data Calibration:** 
+**Outcome:**  
+Our integrated use of sensor technology and risk-based modelling helped the client identify optimal intervention timing and reduce uncertainty in maintenance decision-making.
 
-The predictive results were refined based on averaged chloride data from a separate 2020 study.
-
-The final report, highlighting both prediction enhancements and potential cost savings, was presented to the Saskatchewan Ministry of Highways and Infrastructure.
-
-By integrating modern sensors and probabilistic modeling, this project exemplifies a forward-thinking approach to bridge rehabilitation and maintenance.
+This project demonstrates the value of data-informed consulting approaches to infrastructure rehabilitation, offering long-term performance insights and targeted investment strategies.

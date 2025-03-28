@@ -1,13 +1,13 @@
 ---
-title: A non-destructive approach for assessing the integrity and performance of waterproofing membranes in bridge decks
+title: Non-destructive evaluation of bridge deck waterproofing membranes for asset management
 summary: "The non-destructive test method developed in this study can be used to assess the quality of a newly installed membrane system or to determine the membrane condition at various points during its service life with the intent of optimizing maintenance interventions."
 tags:
-  - Concrete
-  - Bridge
-  - Deck
-  - Membrane
-  - NDT
-  - Service life
+    - Concrete
+    - Bridge
+    - Deck
+    - Membrane
+    - NDT
+    - Service life
 
 date: "2022-04-30T00:00:00Z"
 
@@ -16,8 +16,8 @@ date: "2022-04-30T00:00:00Z"
 # external_link: https://example.org
 
 image:
-  caption: Photo by Jim Zacaruk
-  focal_point: Smart
+    caption: Photo by Jim Zacaruk
+    focal_point: Smart
 
 
 show_related: true
@@ -38,7 +38,7 @@ The failure of a membrane or sealer is dependent on many factors, such as membra
 
 Premature failure of a membrane/sealer system means a loss of the extra protection afforded by this system from chloride-induced corrosion which can drastically reduce the life of the element. Also, because the membrane failure is often localized, it can produce concentrated corrosion cells that accelerate concrete delamination, pop-outs further deteriorating the element condition. In some extreme cases, pitting corrosion on the embedded reinforcement can reduce the load capacity of the element without visible damage to the deck surface. 
 
-## **Research outcomes**
+## **Outcomes**
 
 The non-destructive test method developed in this study can be used to assess the quality of a newly installed membrane system or to determine the membrane condition at various points during its service life with the intent of optimizing maintenance interventions. 
 

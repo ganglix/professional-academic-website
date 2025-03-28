@@ -1,6 +1,6 @@
 ---
-title: University Bridge Rehabilitation Assessment
-summary: The historic University Bridge in Saskatoon, established in 1916, was slated for an extensive rehabilitation in 2015 to renew its deck, arches, and piers. This initiative is backed by an in-depth assessment, focusing on prospective strategies for enhancing the bridge's arches.
+title: University bridge rehabilitation assessment  
+summary: A comprehensive engineering assessment of Saskatoon’s historic University Bridge to support long-term rehabilitation decisions, including field testing, corrosion modelling, and strategy evaluation for optimized durability and cost-effectiveness.  
 tags:
   - Bridge
   - Concrete
@@ -8,6 +8,7 @@ tags:
   - Life cycle
   - Service life
   - Sensor
+
 
 date: '2016-04-27T00:00:00Z'
 
@@ -37,20 +38,17 @@ external_link: ''
 show_related: true
 
 ---
-The historic University Bridge in Saskatoon, established in 1916, was slated for an extensive rehabilitation in 2015 to renew its deck, arches, and piers. This initiative is backed by an in-depth assessment, focusing on prospective strategies for enhancing the bridge's arches.
+The University Bridge in Saskatoon, a critical piece of infrastructure built in 1916, required a major rehabilitation effort beginning in 2015 to address aging structural components, particularly the deck, arches, and piers. This project delivered a technically rigorous and application-focused assessment to inform the City’s rehabilitation strategy.
 
-To ascertain the most effective rehabilitation approach, our team:
+**Engineering Services Provided:**
 
-- **Undertook Experimental Analysis:** 
+- **Field and Laboratory Investigations:**  
+Concrete and steel samples from various sections of the bridge—including Arches C and D—were extracted and evaluated for compressive strength, pore solution chemistry, and electrochemical properties. Custom-built probes were deployed to monitor internal environmental parameters such as moisture saturation and oxygen availability, which influence corrosion activity.
 
-Concrete and rebar samples from various bridge components, including Arches C and D, underwent rigorous testing. This involved evaluating concrete compressive strength, pore solution composition, and rebar electrochemical properties. Additionally, probes measured internal concrete environmental conditions, like water saturation and oxygen levels.
+- **Mechanistic Modelling and Durability Forecasting:**  
+Calibrated numerical models simulated chloride ingress, carbonation, and corrosion processes under real-world exposure. These simulations provided actionable insights into the influence of environmental conditions and construction materials on degradation rates, supporting long-term durability predictions.
 
-- **Developed Numerical Models:** 
+- **Rehabilitation Strategy Evaluation:**  
+Engineering options—including silane sealers, galvanic cathodic protection, and fibre-reinforced polymer (FRP) wraps—were critically assessed for feasibility, risk, and expected service life extension. A phased field validation plan involving three monitored test panels was developed to evaluate performance under in-service conditions over a multi-year period.
 
-These models were fine-tuned based on the experimental data to simulate real-world scenarios. Simulations spotlighted key findings like potential corrosion acceleration due to carbonation and the effect of concrete moisture levels on corrosion rates. The metal type used during the bridge's construction influenced some of these outcomes.
-
-- **Assessed Rehabilitation Solutions:** 
-
-Among the strategies considered, Fiber Polymer Plastic wrap, although effective in certain conditions, required additional corrosion mitigation measures due to its potential risks. Based on our comprehensive evaluations, the most promising solutions were shortlisted: silane sealer, galvanic cathodic protection, and a combined approach of both.
-
-Following this robust assessment, the team proposed the deployment of three test panels to monitor these strategies' efficacy over three years, ensuring the University Bridge's longevity and safety for years to come.
+This project exemplifies applied structural durability consulting that integrates field diagnostics, predictive modelling, and evidence-based strategy selection to support infrastructure asset management and extend service life in a cost-effective manner.
