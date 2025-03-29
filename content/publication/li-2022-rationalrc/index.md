@@ -25,7 +25,7 @@ tags:
 - Structural Analysis
 - Software
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 show_related: true
 

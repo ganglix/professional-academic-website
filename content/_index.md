@@ -121,6 +121,8 @@ sections:
           tag: '*'
         - name: Bridge
           tag: Bridge
+        - name: Mining
+          tag: Mining
         - name: Concrete
           tag: Concrete
         - name: Corrosion
@@ -128,7 +130,7 @@ sections:
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
-      view: showcase
+      view: compact
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
 #   - block: markdown
@@ -243,7 +245,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Simply fill in your name, email, and message, then click "Send" to share your thoughts with me.
+        Have questions or want to learn more? Just enter your name, email, and message, then click "Send" to get in touch. For other ways to connect, scroll to the top and use the contact buttons provided.
 
       # Automatically link email and phone or display as text?
       autolink: true

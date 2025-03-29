@@ -25,7 +25,7 @@ links:
   url: https://doi.org/10.5281/zenodo.10150202
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 show_related: true
 

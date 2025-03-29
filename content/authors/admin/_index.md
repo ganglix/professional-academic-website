@@ -22,7 +22,7 @@ organizations:
     url: https://www.usask.ca
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on corrosion and durability of concrete structures.
+bio: My research focuses on corrosion and durability of engineering materials and structures.
 
 # Interests to show in About widget
 interests:
@@ -87,7 +87,7 @@ highlight_name: true
 ## Research Focus
 The deterioration of concrete and metallic structures presents a significant challenge for global infrastructure. Climate change is expected to cause more extreme events, and the increasing use of low-carbon sustainable materials also introduces difficulties in applying existing standards. My research addresses these issues by developing integrated [computational modelling](./tag/numerical-simulation) and innovative [field-sensing technologies](./tag/sensor) to accurately predict deterioration processes. 
 
-Beyond concrete degradation, I study metal corrosion in aggressive environments, focusing on electrochemical processes in solutions and porous media relevant to mining. My work includes corrosion mitigation, material selection, and numerical modeling to enhance durability and optimize maintenance, particularly for metals exposed to harsh chemical and thermal conditions in potash and underground mining.
+My current work focuses on highly aggressive environments—such as potash mining, which presents unique thermal and chemical challenges, particularly in Saskatchewan. I study electrochemical processes of metals in solutions and porous media relevant to mining, with emphasis on corrosion mitigation, material selection, and numerical modelling. 
 
 Ultimately, my work aims to extend the [service life](./tag/service-life) of critical infrastructures and guide the implementation of adaptive, proactive maintenance strategies that align with evolving sustainability standards.
 
