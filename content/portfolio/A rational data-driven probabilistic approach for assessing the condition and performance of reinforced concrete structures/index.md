@@ -2,20 +2,16 @@
 title: A rational data-driven probabilistic approach for assessing the condition and performance of reinforced concrete structures  
 summary: This project delivers a modular, software-based solution for probabilistic life-cycle deterioration modelling of RC structures. It enables asset owners to assess current condition and predict future performance using field data, optimizing maintenance schedules and extending service life.  
 tags:
-    - Bridge
-    - Concrete
-    - Chloride
-    - Carbonation
-    - Corrosion
-    - Service life
-    - Life cycle
-    - Software
+  - Bridge
+  - Concrete
+  - Chloride
+  - Carbonation
+  - Corrosion
+  - Service life
+  - Life cycle
+  - Software
 date: "2021-03-30T00:00:00Z"
-links:
-    - icon: 
-        icon_pack:
-        name: software
-        url: '../../publication/li-2022-rationalrc/'
+
 show_related: true
 ---
 
@@ -24,6 +20,9 @@ show_related: true
 The deterioration of reinforced concrete (RC) infrastructure due to corrosion and environmental exposure poses a substantial challenge for asset management. This project responds to that challenge through the development of **Rational-RC**, a Python-based software platform that integrates probabilistic life-cycle modelling with field-based diagnostics.
 
 The tool allows engineers and asset owners to evaluate current structure condition, simulate future deterioration, and make data-driven decisions on repair timing and strategy selection. It supports performance-based planning over the entire life cycle of RC structures.
+
+👉 [Access the Rational-RC Software](../../publication/li-2022-rationalrc/)
+
 
 ## **Engineering Contributions**
 
