@@ -17,7 +17,7 @@ In cold climates, damage in concrete infrastructure caused by freezing and thawi
 
 Our study addresses the prevalent surface deterioration observed in Saskatoon’s sidewalks. Despite current CSA limits on deleterious materials and local specifications, pop-outs continue to occur, particularly where soft or reactive aggregates are used. This is largely due to a widespread shortage of high-quality aggregates in the region and the complex nature of mitigation strategies.
 
-## **Engineering Contributions**
+## **Engineering Service**
 
 - **Petrographic Analysis and Field Sampling:**  
 We assessed concrete samples affected by pop-outs and performed detailed petrographic investigations to distinguish between physical and chemical causes of degradation. Core samples provided insight into aggregate performance under environmental stress.
