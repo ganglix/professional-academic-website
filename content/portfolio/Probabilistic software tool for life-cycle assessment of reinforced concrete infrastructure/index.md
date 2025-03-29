@@ -1,6 +1,6 @@
 ---
-title: A rational data-driven probabilistic approach for assessing the condition and performance of reinforced concrete structures  
-summary: This project delivers a modular, software-based solution for probabilistic life-cycle deterioration modelling of RC structures. It enables asset owners to assess current condition and predict future performance using field data, optimizing maintenance schedules and extending service life.  
+title: Probabilistic software tool for life-cycle assessment of reinforced concrete infrastructure  
+summary: This project delivers a modular, software-based solution for probabilistic life-cycle deterioration modelling of RC structures focus on corrosion damage. It enables asset owners to assess current condition and predict future performance using field data, optimizing maintenance schedules and extending service life.  
 tags:
   - Bridge
   - Concrete
