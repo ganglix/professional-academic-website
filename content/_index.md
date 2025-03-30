@@ -232,11 +232,11 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
 
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
+#   - block: tag_cloud
+#     content:
+#       title: Popular Topics
+#     design:
+#       columns: '2'
 
 
   - block: contact

@@ -25,7 +25,7 @@ tags:
 - Potentiodynamic Scan
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 links:
 - name: URL
