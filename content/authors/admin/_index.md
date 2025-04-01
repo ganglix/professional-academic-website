@@ -73,7 +73,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/CV_Gang_Li_web.pdf
+    link: uploads/CV_Gang_Li.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -93,4 +93,4 @@ Ultimately, my work aims to extend the [service life](./tag/service-life) of cri
 
 
 {style="text-align: justify;"}
-{{< icon name="download" pack="fas" >}}{{< staticref "uploads/CV_Gang_Li_web.pdf" "newtab" >}}Download my CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}}{{< staticref "uploads/CV_Gang_Li.pdf" "newtab" >}}Download my CV{{< /staticref >}}.
