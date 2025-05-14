@@ -5,12 +5,9 @@ tags:
   - Corrosion
   - Localized corrosion
   - SCC
-  - Industrial brine
+  - Mining
   - Electrochemical testing
-  - Materials performance
   - Infrastructure durability
-  - Life cycle
-  - Engineering consulting
 date: "2025-05-09T00:00:00Z"
 image:
   caption: 
