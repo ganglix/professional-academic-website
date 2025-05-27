@@ -27,10 +27,9 @@ bio: My research focuses on corrosion and durability of engineering materials an
 # Interests to show in About widget
 interests:
   - Corrosion and Species Transport in Porous Medium
-  - Numerical Simulation and Software
+  - Numerical modelling and Engineering Software
   - Durability of Concrete Structures
   - Non-destructive Testing and Sensing
-  - Sustainable Materials
 
 # Education to show in About widget
 education:
