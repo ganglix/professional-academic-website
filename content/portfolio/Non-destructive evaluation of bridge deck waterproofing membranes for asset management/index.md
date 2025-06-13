@@ -42,6 +42,13 @@ Premature failure of a membrane/sealer system means a loss of the extra protecti
 
 The non-destructive test method developed in this study can be used to assess the quality of a newly installed membrane system or to determine the membrane condition at various points during its service life with the intent of optimizing maintenance interventions. 
 
-## **methods and techniques**
+🔗 **[View Technology Summary on USask Tech Portal](https://usask.portals.in-part.com/591c3fcc-5b75-4862-a42a-4a5f83fbbec3?utm_source=technologies&utm_medium=portal&utm_term=latest)**
+
+## **Methods and Techniques**
+
 To be released after the lift of embargo due to pending patent applications and/or pending publication.
 
+---
+
+**Seeking:**  
+Licensing, Development Partner
