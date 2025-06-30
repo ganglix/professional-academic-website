@@ -245,7 +245,10 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Have questions or want to learn more? Just enter your name, email, and message, then click "Send" to get in touch. For other ways to connect, scroll to the top and use the contact buttons provided.
+              I provide consulting services in corrosion science, material performance evaluation, and infrastructure durability—particularly for concrete structures, metallic structures in potash and mining environments.
+
+              Use the form below to reach out for service inquiries, collaboration opportunities, or a free initial consultation. I typically respond within 1–2 business days.
+
 
       # Automatically link email and phone or display as text?
       autolink: true
