@@ -5,7 +5,7 @@ authors:
 - Gang Li
 - Jim Zacaruk
 - Moh Boulfiza
-date: '2025-01-01'
+date: '2025-06-30'
 publishDate: '2025-06-30T16:34:17.364172Z'
 publication_types:
 - article-journal
@@ -34,4 +34,13 @@ tags:
 links:
 - name: URL
   url: https://www.sciencedirect.com/science/article/pii/S2352711025002055
+
+
+summary:
+
+    This paper introduces Rational-RC, an open-source Python package designed to model the life-cycle deterioration of reinforced concrete (RC) structures using a probabilistic, modular framework. It integrates key deterioration mechanisms—such as chloride ingress, carbonation, corrosion, and membrane degradation—within a unified reliability-based approach. The tool supports calibration with site-specific field data and produces actionable predictions that support condition-based maintenance and infrastructure management.
+
+featured: true
+show_related: true
+
 ---
