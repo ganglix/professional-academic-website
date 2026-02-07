@@ -1,0 +1,10 @@
+/* Slightly larger thumbnails for compact list/portfolio views */
+.media.stream-item img {
+  max-width: 200px;
+}
+
+@media screen and (max-width: 768px) {
+  .media.stream-item img {
+    max-width: 110px;
+  }
+}
