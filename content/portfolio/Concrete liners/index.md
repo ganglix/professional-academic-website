@@ -14,7 +14,6 @@ image:
   caption: 
   focal_point: Smart
 show_related: true
-show_related: true
 ---
 
 ## **Engineering Services Delivered**
